@@ -1,0 +1,455 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  display: flex;
+  min-height: 100vh;
+  background: #fff;
+  color: #222;
+}
+
+/* SIDEBAR */
+.sidebar {
+  width: 240px;
+  background-color: #ffffff;
+  color: #444;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  border-right: 1px solid #e5e5e5;
+}
+
+/* HEADER */
+.sidebar-header {
+  text-align: center;
+  padding: 15px 20px 20px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 15px;
+}
+
+.sidebar-header .logo {
+  width: 48px;
+  margin-bottom: 8px;
+}
+
+.sidebar-header h2 {
+  font-size: 15px;
+  font-weight: 700;
+  color: #e91e63;
+  text-transform: uppercase;
+}
+
+/* MENU */
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.sidebar ul li {
+  margin: 2px 0;
+}
+
+.sidebar ul li a {
+  display: block;
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #555;
+  text-decoration: none;
+  transition: all 0.25s ease;
+}
+
+/* HOVER */
+.sidebar ul li a:hover {
+  background: #f5f5f5;
+}
+
+/* ACTIVE (PINK STRIP KIRI) */
+.sidebar ul li a.active {
+  background: #fdecef;
+  color: #e91e63;
+  font-weight: 600;
+  border-left: 4px solid #e91e63;
+}
+
+/* LOGOUT */
+.sidebar ul li:last-child a {
+  margin-top: 10px;
+  color: #e91e63;
+}
+
+/* MAIN CONTENT */
+.main-content {
+  margin-left: 240px;
+  padding: 0px;
+  flex: 1;
+  background: #fff;
+  color: #222;
+}
+/* ===== SIDEBAR ===== */
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul li a {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 18px;
+    text-decoration: none;
+    color: #333;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+}
+
+.sidebar ul li a i {
+    width: 20px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.sidebar ul li a.active,
+.sidebar ul li a:hover {
+    background: #e9f5ee;
+    color: #005477;
+    font-weight: 600;
+}
+
+.sidebar ul li a.logout {
+    color: #dc3545;
+}
+
+.sidebar ul li a.logout:hover {
+    background: #f8d7da;
+}
+
+/* Dashboard Admin */
+/* =========================
+   RESET
+========================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* =========================
+   BODY
+========================= */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  display: flex;
+  min-height: 100vh;
+  background: #f4f8f6;
+  color: #222;
+}
+
+/* =========================
+   SIDEBAR
+========================= */
+.sidebar {
+  width: 240px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  border-right: 1px solid #e5e5e5;
+}
+
+.sidebar-header {
+  text-align: center;
+  padding: 15px 20px 20px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 15px;
+}
+
+.sidebar-header .logo {
+  width: 48px;
+  margin-bottom: 8px;
+}
+
+.sidebar-header h2 {
+  font-size: 15px;
+  font-weight: 700;
+  color: #e91e63;
+  text-transform: uppercase;
+}
+
+.sidebar ul {
+  list-style: none;
+  width: 100%;
+}
+
+.sidebar ul li a {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 20px;
+  font-size: 14px;
+  color: #555;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.sidebar ul li a:hover {
+  background: #f5f5f5;
+}
+
+.sidebar ul li a.active {
+  background: #e9f5ee;
+  color: #005477;
+  font-weight: 600;
+  border-left: 4px solid #005477;
+}
+
+.sidebar ul li a.logout {
+  color: #dc3545;
+}
+
+.sidebar ul li a.logout:hover {
+  background: #f8d7da;
+}
+
+/* =========================
+   MAIN CONTENT
+========================= */
+.main-content {
+  margin-left: 240px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* =========================
+   TOPBAR
+========================= */
+.topbar {
+  height: 60px;
+  background: #ffffff;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 25px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.topbar h1 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #157347;
+}
+
+.admin-info {
+  font-size: 14px;
+  color: #555;
+}
+
+/* =========================
+   DASHBOARD WRAPPER
+========================= */
+.dashboard-wrapper {
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+/* =========================
+   CARD STATISTIK
+========================= */
+.dashboard-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 22px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+}
+
+.card h2 {
+  font-size: 32px;
+  margin-bottom: 6px;
+  color: #157347;
+}
+
+.card p {
+  font-size: 14px;
+  color: #666;
+}
+
+/* =========================
+   CONTENT CARD (Grafik/Tabel)
+========================= */
+.content-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.content-card h3 {
+  margin-bottom: 15px;
+  font-size: 16px;
+  color: #157347;
+}
+
+/* =========================
+   TABLE ADMIN
+========================= */
+.table-admin {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.table-admin th,
+.table-admin td {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.table-admin th {
+  background: #f8f9fa;
+  font-weight: 600;
+}
+
+.table-admin tr:hover {
+  background: #f9fdfb;
+}
+
+/* =========================
+   BUTTON ADMIN
+========================= */
+.btn-admin {
+  background:#2c5f9e;
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.btn-admin:hover {
+  background: #157347;
+}
+
+/* =========================
+   TIM BOX
+========================= */
+.tim-box {
+  margin-top: 8px;
+  background: #f8f9fa;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+/* =========================
+   NOTIF BOX
+========================= */
+.notif {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* =========================
+   FOOTER
+========================= */
+footer {
+  text-align: center;
+  padding: 15px;
+  font-size: 13px;
+  color: #666;
+  margin-top: auto;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+@media (max-width: 992px) {
+  .sidebar {
+    width: 200px;
+  }
+
+  .main-content {
+    margin-left: 200px;
+  }
+}
+
+@media (max-width: 768px) {
+  .dashboard-cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* =========================
+   HEADER WAKTU DASHBOARD
+========================= */
+.header-dashboard {
+  width: 100%;
+  padding: 18px 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+
+  /* menyatu dengan background */
+  background: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.header-dashboard img {
+  width: 90px;
+  height: auto;
+}
+
+.header-dashboard .time-section {
+  flex: 1;
+  text-align: center;
+}
+
+.header-dashboard .tanggal {
+  font-size: 16px;
+  font-weight: 500;
+  color: #201573;
+}
+
+.header-dashboard .jam {
+  font-size: 42px;
+  font-weight: 700;
+  color: #301573;
+}

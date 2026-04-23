@@ -1,0 +1,194 @@
+[20-Feb-2026 16:20:12 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'netcare' in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 13
+[20-Feb-2026 16:20:17 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'netcare' in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 13
+[09-Apr-2026 10:55:35 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[09-Apr-2026 10:55:35 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[09-Apr-2026 10:55:35 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[09-Apr-2026 10:55:35 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[09-Apr-2026 10:55:35 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[09-Apr-2026 10:55:35 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[09-Apr-2026 10:56:09 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[09-Apr-2026 10:56:09 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[09-Apr-2026 10:56:09 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[09-Apr-2026 10:56:09 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[09-Apr-2026 10:56:09 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[09-Apr-2026 10:56:09 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[10-Apr-2026 16:19:50 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[10-Apr-2026 16:19:50 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:19:50 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:19:50 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[10-Apr-2026 16:19:50 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[10-Apr-2026 16:19:50 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[10-Apr-2026 16:19:50 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[10-Apr-2026 16:19:50 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:19:50 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:19:50 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[10-Apr-2026 16:19:50 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[10-Apr-2026 16:19:50 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[10-Apr-2026 16:22:49 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[10-Apr-2026 16:22:49 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:22:49 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:22:49 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[10-Apr-2026 16:22:49 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[10-Apr-2026 16:22:49 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[10-Apr-2026 16:27:35 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[10-Apr-2026 16:27:35 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:27:35 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:27:35 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[10-Apr-2026 16:27:35 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[10-Apr-2026 16:27:35 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[10-Apr-2026 16:30:03 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[10-Apr-2026 16:30:03 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:30:03 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:30:03 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[10-Apr-2026 16:30:03 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[10-Apr-2026 16:30:03 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[10-Apr-2026 16:33:39 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[10-Apr-2026 16:33:39 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:33:39 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:33:39 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[10-Apr-2026 16:33:39 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[10-Apr-2026 16:33:39 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[10-Apr-2026 16:34:44 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[10-Apr-2026 16:34:44 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:34:44 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:34:44 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[10-Apr-2026 16:34:44 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[10-Apr-2026 16:34:44 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[10-Apr-2026 16:35:49 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[10-Apr-2026 16:35:49 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:35:49 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:35:49 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[10-Apr-2026 16:35:49 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[10-Apr-2026 16:35:49 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[10-Apr-2026 16:36:06 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[10-Apr-2026 16:36:06 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:36:06 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:36:06 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[10-Apr-2026 16:36:06 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[10-Apr-2026 16:36:06 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[10-Apr-2026 16:36:41 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[10-Apr-2026 16:36:41 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:36:41 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[10-Apr-2026 16:36:41 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[10-Apr-2026 16:36:41 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[10-Apr-2026 16:36:41 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[12-Apr-2026 15:56:15 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[12-Apr-2026 15:56:15 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[12-Apr-2026 15:56:15 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[12-Apr-2026 15:56:15 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[12-Apr-2026 15:56:15 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[12-Apr-2026 15:56:15 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[12-Apr-2026 15:56:26 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[12-Apr-2026 15:56:26 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[12-Apr-2026 15:56:26 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[12-Apr-2026 15:56:26 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[12-Apr-2026 15:56:26 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[12-Apr-2026 15:56:26 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[12-Apr-2026 15:56:26 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[12-Apr-2026 15:56:26 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[12-Apr-2026 15:56:26 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[12-Apr-2026 15:56:26 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[12-Apr-2026 15:56:26 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[12-Apr-2026 15:56:26 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[14-Apr-2026 16:17:46 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[14-Apr-2026 16:17:46 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[14-Apr-2026 16:17:46 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[14-Apr-2026 16:17:46 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[14-Apr-2026 16:17:46 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[14-Apr-2026 16:17:46 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[17-Apr-2026 16:57:38 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[17-Apr-2026 16:57:38 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[17-Apr-2026 16:57:38 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[17-Apr-2026 16:57:38 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[17-Apr-2026 16:57:38 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[17-Apr-2026 16:57:38 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[17-Apr-2026 17:14:21 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[17-Apr-2026 17:14:21 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[17-Apr-2026 17:14:21 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[17-Apr-2026 17:14:21 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[17-Apr-2026 17:14:21 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[17-Apr-2026 17:14:21 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[17-Apr-2026 17:14:29 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[17-Apr-2026 17:14:29 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[17-Apr-2026 17:14:29 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[17-Apr-2026 17:14:29 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[17-Apr-2026 17:14:29 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[17-Apr-2026 17:14:29 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[18-Apr-2026 15:08:59 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[18-Apr-2026 15:08:59 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 15:08:59 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 15:08:59 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[18-Apr-2026 15:08:59 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[18-Apr-2026 15:08:59 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[18-Apr-2026 15:09:02 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[18-Apr-2026 15:09:02 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 15:09:02 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 15:09:02 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[18-Apr-2026 15:09:02 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[18-Apr-2026 15:09:02 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[18-Apr-2026 15:09:45 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[18-Apr-2026 15:09:45 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 15:09:45 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 15:09:45 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[18-Apr-2026 15:09:45 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[18-Apr-2026 15:09:45 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[18-Apr-2026 16:19:16 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[18-Apr-2026 16:19:16 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 16:19:16 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 16:19:16 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[18-Apr-2026 16:19:16 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[18-Apr-2026 16:19:16 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[18-Apr-2026 16:19:19 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[18-Apr-2026 16:19:19 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 16:19:19 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 16:19:19 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[18-Apr-2026 16:19:19 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[18-Apr-2026 16:19:19 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[18-Apr-2026 16:21:25 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[18-Apr-2026 16:21:25 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 16:21:25 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 16:21:25 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[18-Apr-2026 16:21:25 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[18-Apr-2026 16:21:25 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[18-Apr-2026 16:21:26 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[18-Apr-2026 16:21:26 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 16:21:26 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 16:21:26 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[18-Apr-2026 16:21:26 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[18-Apr-2026 16:21:26 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[18-Apr-2026 16:21:59 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[18-Apr-2026 16:21:59 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 16:21:59 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[18-Apr-2026 16:21:59 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[18-Apr-2026 16:21:59 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[18-Apr-2026 16:21:59 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[20-Apr-2026 06:31:08 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[20-Apr-2026 06:31:08 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[20-Apr-2026 06:31:08 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[20-Apr-2026 06:31:08 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[20-Apr-2026 06:31:08 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[20-Apr-2026 06:31:08 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[20-Apr-2026 06:32:35 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[20-Apr-2026 06:32:35 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[20-Apr-2026 06:32:35 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[20-Apr-2026 06:32:35 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[20-Apr-2026 06:32:35 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[20-Apr-2026 06:32:35 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[21-Apr-2026 08:50:33 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[21-Apr-2026 08:50:33 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[21-Apr-2026 08:50:33 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[21-Apr-2026 08:50:33 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[21-Apr-2026 08:50:33 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[21-Apr-2026 08:50:33 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[22-Apr-2026 15:33:24 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[22-Apr-2026 15:33:24 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[22-Apr-2026 15:33:24 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[22-Apr-2026 15:33:24 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[22-Apr-2026 15:33:24 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[22-Apr-2026 15:33:24 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
+[22-Apr-2026 15:33:28 Europe/Berlin] Query SELECT gagal: Unknown column 'p.judul' in 'field list'
+[22-Apr-2026 15:33:28 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[22-Apr-2026 15:33:28 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 533
+[22-Apr-2026 15:33:28 Europe/Berlin] PHP Warning:  Undefined variable $totalOutput in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 539
+[22-Apr-2026 15:33:28 Europe/Berlin] PHP Warning:  Undefined variable $totalUtama in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 540
+[22-Apr-2026 15:33:28 Europe/Berlin] PHP Warning:  Undefined variable $totalTambahan in C:\xampp\htdocs\netcare\admin\laporan_rekapitulasi.php on line 541
